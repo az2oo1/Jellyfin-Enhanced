@@ -37,7 +37,7 @@
     "toast_subtitle_style": "🎨 شكل الترجمة: {style}",
     "toast_subtitle_size": "📏 حجم الترجمة: {size}",
     "toast_subtitle_font": "🔤 خط الترجمة: {font}",
-    "toast_random_selection_status": "🎬 {item_type} {status} in random selection",
+    "toast_random_selection_status": "🎬 {item_type} {status} في التحديد العشوائي",
     "selection_included": "included",
     "selection_excluded": "excluded",
     "panel_version": "Version {version}",
